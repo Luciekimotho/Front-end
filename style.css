@@ -1,0 +1,115 @@
+body{
+   font-family: Palatino;
+    width: 48%;
+    align-items: center;
+    margin-left: 270px;
+}
+#header{
+    border:2px solid #000000;
+    margin: 10px;
+    
+}
+#gnome{
+    display: inline-block;
+    padding-left: 20px;
+}
+#trouble{
+    float: right;
+}
+#emails{
+    border:2px solid #000000;
+    margin: 10px;
+    background-image: url(assets/big_img.jpg);
+    height: 270px;
+}
+    #emailtxt{
+        text-align: left;
+        width: 30%;
+        font-size: 130%;
+        font-family: serif;
+        padding-left: 15px;
+    }
+span{
+    font-style: italic;
+}
+
+#blogs{
+    border:2px solid #000000;
+    margin: 10px;
+    font-family:Palatino;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.btn{
+  border-radius: 23px;
+  font-family: Arial;
+  color: white;
+  text-decoration: none;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 4px;
+  padding-top: 4px;
+  background-color: black;
+  border: solid #000000;
+
+}
+#icons{
+    border:2px solid #000000;
+    margin: 10px;
+    text-align: center;
+}
+#editable{
+    width: 30%;
+    padding-top: 10px;
+    padding-left: 10px;
+    display: inline-block;
+    float: left;
+    clear: both;
+}
+#versatile{
+    width: 30%;
+    display: inline-block;
+    width: 30%;
+    clear: both;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#prof{
+   width: 30%; 
+   display: inline-block;
+   float: right;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+   /*clear: both;*/
+}
+#sendicate{
+    border:2px solid #000000;
+    margin: 10px;
+}
+#shoes{
+   border:2px solid #000000;
+    margin: 10px; 
+}
+#adspace{
+   text-align: center; 
+   border:2px solid #000000;
+   padding-bottom: 10px;
+   margin: 10px;
+}
+
+#lorem{
+    border:2px solid #000000;
+    margin: 10px;
+}
+
+#foot{
+    
+    text-align: center;
+    font-weight: bold;
+    border:2px solid #000000;
+    padding-bottom: 10px;
+    margin: 10px;
+}
